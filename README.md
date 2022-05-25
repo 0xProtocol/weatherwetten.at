@@ -1,4 +1,4 @@
-# weatherwetten.at
+# weatherwetten.at (vue.js and vuetify)
 
 ## Project setup
 ```
